@@ -1,6 +1,8 @@
-| layout | title | parent|
-|---|---|---|
-| default | Launch Options | Reference |
+---
+layout: default
+title: Launch Options
+parent: Reference
+---
 
 # Launch Options
 

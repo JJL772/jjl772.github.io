@@ -1,6 +1,8 @@
-| layout | title | parent |
-|---|---|---|
-| default | Using Panorama | Panorama |
+---
+layout: default
+title: Using Panorama
+parent: Panorama
+---
 
 # Using Panorama
 

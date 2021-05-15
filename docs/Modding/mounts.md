@@ -1,6 +1,8 @@
-| layout | title | parent |
-|---|---|---|
-| default | Configuring Mounts | Modding |
+---
+layout: default
+title: Configuring Mounts
+parent: Modding
+---
 
 # Configuring Mounts
 

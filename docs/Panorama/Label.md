@@ -1,6 +1,8 @@
-| layout | title | parent|
-|---|---|---|
-|default|Control: Label|Panorama|
+---
+layout: default
+title: "Control: Label"
+parent: Panorama
+---
 
 # Control: Label
 
