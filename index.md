@@ -26,6 +26,7 @@ Pull requests are thoroughly reviewed before being accepted. All contributions m
 - contain formal, passive language (No `I think` or `Next you go to`)
 
 ### Please do
+
 - embed images or videos that showcase what is being explained
 - add links wherever possible
 - use proper, rich [markdown styling](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

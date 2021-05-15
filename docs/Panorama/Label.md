@@ -1,3 +1,7 @@
+| layout | title | parent|
+|---|---|---|
+|default|Control: Label|Panorama|
+
 # Control: Label
 
 The Label control is a simple text display.
