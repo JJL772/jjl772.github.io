@@ -8,4 +8,4 @@ permalink: docs/Modding
 
 # Modding
 
-Documentation pertaining to modding in Chaos Source.
+Documentation pertaining to modding Chaos.

@@ -2,6 +2,7 @@
 layout: default
 title: Using Panorama
 parent: Panorama
+nav_order: 1
 ---
 
 # Using Panorama
