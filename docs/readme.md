@@ -1,12 +1,4 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Chaos Engine/Portal 2: Community Edition docs"
-permalink: /
----
-
-# Portal 2: Community Edition Wiki
+# Chaos Source Wiki
 
 This repository contains the markdown pages for the wiki available here: [https://www.chaosinitiative.com/wiki](https://www.chaosinitiative.com/wiki)
 
@@ -32,9 +24,13 @@ Pull requests are thoroughly reviewed before being accepted. All contributions m
 - add malicious links or (any) downloads
 
 ## Images and other media
-
-Images should be kept in the git repository, as this helps versioning and it ensures the images will always be available.
-
+We don't host any images ourselves. This helps with versioning and reduces workload. Please upload media that should be embedded into a page to some file hosting service like [imgur](https://imgur.com)
 
 ## Deployment
 The online wiki is automatically updated every time this repository receives a new commit
+
+# Technologies
+This wiki is programmed in-house in [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) 5.
+
+- [Markdig](https://www.nuget.org/packages/Markdig/)
+- [LibGit2Sharp](https://www.nuget.org/packages/LibGit2Sharp)
