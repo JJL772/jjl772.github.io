@@ -1,5 +1,6 @@
 
 /* From: https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f */
+/*
 @font-face {
 	font-family: 'JetBrains Mono';
 	src: url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Bold-Italic.woff2') format('woff2'),
@@ -71,14 +72,14 @@
 	font-style: normal;
 	font-display: swap;
 }
+*/
 
 body {
-	background-color: black;
+	background-color: #1A1A1A;
 }
 
 h1, h2, h3, h4, p, ul {
 	color: white;
-	font-family: 'JetBrains Mono';
 }
 
 li {
@@ -121,4 +122,13 @@ a {
 .body {
 	margin-left: 20px;
 	margin-right: 20px;
+}
+
+tr, td, table {
+	border: 1px solid white;
+}
+
+td {
+	padding-left: 8px;
+	padding-right: 8px;
 }
